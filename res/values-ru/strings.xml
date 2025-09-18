@@ -26,14 +26,14 @@
     <string name="Connecting___">"Подключение…"</string>
 
     <string name="Are_You_Sure_">"Вы уверены?"</string>
-    <string name="Yes">"Да"</string>
-    <string name="No">"Нет"</string>
-    <string name="WAIT">"Подождите…"</string>
+    <string name="Yes">"ДА"</string>
+    <string name="No">"НЕТ"</string>
+    <string name="WAIT">"ПОДОЖДИТЕ…"</string>
     <string name="Must_Specify_Name_">"Необходимо указать имя"</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Возрастной рейтинг контента приложения может измениться при поиске групп."</string>
 
-    <string name="_Rank_">" Ранг "</string>
+    <string name="_Rank_">" РАНГ "</string>
     <string name="_Alias_">" Никнейм "</string>
     <string name="_Score_">" Счёт "</string>
     <string name="Score__">"Счёт: "</string>
@@ -116,8 +116,8 @@
     <string name="REQUEST_FRIEND">"Запросить дружбу"</string>
     <string name="Private">"Приватный"</string>
     <string name="Public">"Публичный"</string>
-    <string name="Bot">"Бот"</string>
-    <string name="You">"Вы"</string>
+    <string name="Bot">"БОТ"</string>
+    <string name="You">"ВЫ"</string>
     <string name="This_player_is_a_bot">"Этот игрок - бот."</string>
     <string name="This_player_is_not_signed_in">"Этот игрок не авторизован в системе."</string>
 
@@ -273,8 +273,8 @@
 
     <string name="CREATE_CLAN">"Создать клан"</string>
     <string name="MEMBER">"Участник"</string>
-    <string name="ADMIN">"Админ"</string>
-    <string name="LEADER">"Лидер"</string>
+    <string name="ADMIN">"АДМИН"</string>
+    <string name="LEADER">"ЛИДЕР"</string>
     <string name="ELDER">"Старейшина"</string>
 
 
@@ -389,7 +389,7 @@
     <string name="Present_Collector">"Собиратель подарков"</string>
 
 
-    <string name="Season">"Время года"</string>
+    <string name="Season">"Сезон"</string>
     <string name="The_next_season_begins">"Следующий сезон начинается"</string>
 
     <string name="Current">"Текущий"</string>
@@ -470,7 +470,7 @@
     <string name="Plasma_Collected_">"Плазмы собрано:"</string>
     <string name="Plasma_Purchases">"Покупки за плазму"</string>
 
-    <string name="ENTER">"Войти"</string>
+    <string name="ENTER">"ВОЙТИ"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Подготовка"</string>
     <string name="ArenaDescription">"У вас только одна жизнь. Победитель получает %s плазмы."</string>
@@ -766,7 +766,7 @@
     <string name="FFAU">FFAU</string>
     <string name="_in_a_FFAU_Game"> в FFA (Ультра)</string>
 
-    <string name="BANNED_PLAYERS">Заблокированные игроки</string>
+    <string name="BANNED_PLAYERS">Забанины игроки</string>
     <string name="MAIL">Почта</string>
     <string name="WRITE_MAIL">Написать сообщение</string>
     <string name="Days">Дней</string>
@@ -871,9 +871,9 @@
     <string name="Win_a_Team_Deathmatch_Game">"Выиграй в режиме командное выживание"</string>
     <string name="TEAM_DEATHMATCH">"командное выживание"</string>
     <string name="Speed_Click_Toggle">"Кнопка переключения Авто-Кликера"</string>
-    <string name="MOD">"Модератор"</string>
+    <string name="MOD">"МОДЕРАТОР"</string>
     <string name="FAQ">"Часто задаваемые вопросы"</string>
-    <string name="BUY_EXTRA_SPINS">"Купить дополнительные спины"</string>
+    <string name="BUY_EXTRA_SPINS">"Купить дополнительные спинов"</string>
     <string name="Spins_Remaining">"Спинов осталось"</string>
     <string name="One_Spin">"Один спин"</string>
     <string name="Bundle_of_Spins">"Десять спинов (10)"</string>
@@ -971,7 +971,7 @@
       Время наказания может быть от нескольких часов до вечного бана в зависимости от серьезности ситуации\n
       Если вы заметили, что какой-то игрок нарушает правила игры, пожалуйста, сообщите об этом модераторам\n
     </string>
-    <string name="Blob_Chat_Bubbles">Мини-чаты в игре</string>
+    <string name="Blob_Chat_Bubbles">Мини-шары в игре</string>
     <string name="CHRISTMAS_ADVENT_SKINS">Рождественское приключение</string>
     <string name="You_cannot_open_this_present_yet_">Вы не можете открыть этот подарок сейчас!</string>
     <string name="Open_Present">Открыть подарок</string>
